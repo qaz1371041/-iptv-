@@ -1,19 +1,19 @@
 # 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
+# 这是一个订阅来源列表，每行一个订阅地址
 
-https://hub.glowp.xyz/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt
-https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/zwrt/IPTV/refs/heads/Files/IPTV.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容
-https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 https://codeberg.org/zxj/xyh/raw/branch/main/live.txt
 https://down.nigx.cn/dsj.zzong6599.workers.dev/
-https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
 https://im5k.fun/vip.m3u
 https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
@@ -25,9 +25,35 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
-http://47.120.41.246:8899/zb.txt
 https://live.zbds.top/tv/iptv4.txt
 http://rihou.cc:567/gggg.nzk
+
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.txt
+https://gitee.com/cyh92/live/raw/main/source/MiG.txt
+https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt
+https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/liuchuang0321/myIPTV/da52e29606cd2273023fb05aa5e501fe3d0f99c4/ipv4.m3u
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8%E7%A7%BB%E5%8A%A8.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD%E6%BA%90.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E9%9F%A9%E5%9B%BD%E9%AB%98%E6%B8%85.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E8%B6%85%E9%AB%98%E6%B8%854-8K%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E6%B8%AF%E5%8F%B0iptv12k.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E5%A4%AE%E5%8D%ABipv4.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/HBO.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/hoge.txt
+
+
 
 https://develop202.github.io/migu_video/interface.txt
 https://www.iyouhun.com/tv/zb
